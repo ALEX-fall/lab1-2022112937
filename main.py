@@ -427,6 +427,5 @@ def main():
     app.mainloop()
 
 if __name__ == "__main__":
-    print("git修改1")
-    print("git修改2")
+    print("git修改code")
     main()
